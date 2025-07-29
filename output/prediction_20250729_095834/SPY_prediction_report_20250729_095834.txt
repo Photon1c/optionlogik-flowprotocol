@@ -1,0 +1,32 @@
+
+# SPY Overnight Prediction Report
+Generated: 2025-07-29 09:58:35
+
+## Model Training Results
+- Optimal Reflexivity Weight: 0.0250
+- Best MSE: 0.0064
+- Training Data Points: 15 strikes
+
+## Forward Projection
+- Current Price: $635.00
+- Predicted Price: $634.48
+- Expected Change: $-0.52 (-0.08%)
+
+## Prediction Details
+- Prediction Date: 2025-07-29
+- Next Trading Day: 2025-07-30
+- Model Confidence: Based on 15 option strikes
+
+## Files Generated
+- Chart: SPY_forward_projection_20250729_095834.png
+- Training Results: training_results.json
+- Prediction Results: prediction_results.json
+
+## How to Use This Prediction
+1. Check the chart for visual projection
+2. Monitor SPY at market open
+3. Compare actual vs predicted price at market close
+4. Use results to refine model for future predictions
+
+---
+*This prediction is for informational purposes only. Always do your own research.*

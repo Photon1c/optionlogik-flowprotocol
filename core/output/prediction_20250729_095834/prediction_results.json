@@ -1,0 +1,11 @@
+{
+  "timestamp": "20250729_095834",
+  "ticker": "SPY",
+  "current_price": 635.0,
+  "predicted_price": 634.48075,
+  "price_change": -0.5192500000000564,
+  "price_change_pct": -0.08177165354331596,
+  "model_weight": 0.025,
+  "prediction_date": "2025-07-29",
+  "next_trading_day": "2025-07-30"
+}

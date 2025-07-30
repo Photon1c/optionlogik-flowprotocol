@@ -61,6 +61,8 @@ Both scripts now generate option chain data with:
 - **Put Symbols**: Format `HSY250801P{strike*1000:08d}` (e.g., HSY250801P00125000)
 - **Strike Range**: 125.00 to 215.00 with 5-point increments
 
+❗ All input data is from Nasdaq (for historical stock CSV files) and CBOE (for daily historical option chain files)
+
 ## 📁 File Structure
 
 ### **Core System Files**

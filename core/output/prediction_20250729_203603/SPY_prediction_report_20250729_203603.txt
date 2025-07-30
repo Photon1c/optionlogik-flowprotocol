@@ -1,0 +1,61 @@
+
+# SPY Overnight Prediction Report
+Generated: 2025-07-29 20:36:10
+
+## Model Training Results
+- Optimal Reflexivity Weight: 0.0170
+- Best MSE: 0.0010
+- Training Data Points: 15 strikes
+
+## Forward Projection
+- Current Price: $635.00
+- Predicted Price: $635.25
+- Expected Change: $0.25 (+0.04%)
+
+## Prediction Details
+- Prediction Date: 2025-07-29
+- Next Trading Day: 2025-07-30
+- Model Confidence: Based on 15 option strikes
+## Reflexivity Confidence Index
+- Confidence Index: 1.000
+- Confidence Level: Very High
+- Average Accuracy: 99.9%
+- Direction Accuracy: 100.0%
+- Predictions Analyzed: 1
+
+## Prediction History Summary
+- Total Predictions: 8
+- Completed Predictions: 1
+- Pending Predictions: 7
+- Overall Accuracy: 99.9% (if available)
+- Direction Accuracy: 100.0% (if available)
+
+
+## Success Tracking
+- Prediction logged for accuracy tracking
+- Confidence index calculated based on historical performance
+- Use actual closing price to update prediction accuracy
+
+## Files Generated
+- Chart: SPY_forward_projection_20250729_203603.png
+- Training Results: training_results.json
+- Prediction Results: prediction_results.json
+- Success Logs: output/success_logs/SPY_prediction_log.csv
+- Confidence Index: output/success_logs/SPY_confidence_index.json
+
+## How to Use This Prediction
+1. Check the chart for visual projection
+2. Monitor SPY at market open
+3. Compare actual vs predicted price at market close
+4. Update prediction accuracy with actual closing price
+5. Use confidence index to assess model reliability
+6. Track long-term performance through success logs
+
+## Next Steps for Success Tracking
+1. After market close, note the actual closing price
+2. Update prediction accuracy using the success logger
+3. Monitor confidence index trends over time
+4. Use insights to refine model parameters
+
+---
+*This prediction is for informational purposes only. Always do your own research.*

@@ -1,0 +1,32 @@
+{
+  "timestamp": "20250729_203548",
+  "ticker": "SPY",
+  "current_price": 635.0,
+  "predicted_price": 634.5244,
+  "price_change": -0.4755999999999858,
+  "price_change_pct": -0.07489763779527336,
+  "model_weight": 0.041,
+  "prediction_date": "2025-07-29",
+  "next_trading_day": "2025-07-30",
+  "confidence_metrics": {
+    "calculation_date": "2025-07-29",
+    "ticker": "SPY",
+    "lookback_days": 30,
+    "total_predictions": 1,
+    "avg_accuracy_pct": 99.88188976377953,
+    "direction_accuracy_pct": 100.0,
+    "accuracy_consistency": 1.0,
+    "reflexivity_confidence_index": 0.9995275590551183,
+    "confidence_level": "Very High",
+    "recent_predictions": [
+      {
+        "date": "2025-07-29",
+        "predicted_price": 637.5,
+        "actual_price": 638.25,
+        "accuracy_pct": 99.88188976377953,
+        "direction_correct": true
+      }
+    ]
+  },
+  "option_flow_metrics": {
+    "total_call_volume": 
